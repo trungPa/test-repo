@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>not a number</key>
+	<string>not a number</string>
+	<key>first function</key>
+	<string>first function</string>
+	<key>second function</key>
+	<string>second function</string>
+	<key>0</key>
+	<string>zero</string>
+	<key>1</key>
+	<string>one</string>
+	<key>2</key>
+	<string>two</string>
+	<key>3</key>
+	<string>three</string>
+	<key>4</key>
+	<string>four</string>
+	<key>5</key>
+	<string>five</string>
+	<key>6</key>
+	<string>six</string>
+	<key>7</key>
+	<string>seven</string>
+	<key>8</key>
+	<string>eight</string>
+	<key>9</key>
+	<string>nine</string>
+	<key>Deg</key>
+	<string>switch mode from radians to degrees</string>
+	<key>Rad</key>
+	<string>switch mode from degrees to radians</string>
+	<key>ce</key>
+	<string>clear entry</string>
+	<key>clear</key>
+	<string>clear</string>
+	<key>ee</key>
+	<string>exponent entry</string>
+	<key>decimal</key>
+	<string>decimal</string>
+</dict>
+</plist>
