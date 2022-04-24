@@ -1,1 +1,2 @@
-Totally harmless application.app
+Hello, world!
+This is not a text file
